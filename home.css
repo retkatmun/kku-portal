@@ -76,3 +76,19 @@
 width: 90%;
 margin-left: 60px;
   }
+
+  .vc img{
+    width: 200px;
+    height: 250px;
+    border-radius: 100px;
+    margin-top: 150px;
+    margin-left: 60px;
+  }
+
+  .vc{
+    margin-top: -4px;
+    background-color: white;
+    height: 500px;
+    width: 90%;
+    margin-left: 60px;
+  }
